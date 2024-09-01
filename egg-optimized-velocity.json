@@ -2,7 +2,7 @@
     "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PTERODACTYL PANEL - PTERODACTYL.IO",
     "meta": {
         "version": "PTDL_v2",
-        "update_url": null
+        "update_url": https://raw.githubusercontent.com/st1glio/pterodactyl-eggs/main/egg-optimized-velocity.json
     },
     "exported_at": "2024-09-01T03:49:26+02:00",
     "name": "Optimized Velocity",
